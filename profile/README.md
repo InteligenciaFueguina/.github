@@ -1,4 +1,4 @@
-# 🧭 Inteligencia Fueguina  
+#  Inteligencia Fueguina  
 **Conectando mentes brillantes en el fin del mundo.**  
 🌋 Innovación • 🛰️ Tecnología • 🐧 Comunidad  
 
@@ -55,4 +55,3 @@ En este repositorio compartimos:
 ## 🌠 Nuestra visión  
 Usar **IA y desarrollo de software** para innovar, crear oportunidades laborales y transformar la provincia desde el fin del mundo.  
 
----
